@@ -1,0 +1,25 @@
+h2{
+    color: red;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 35px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td,th{
+    border: 2px solid blue;
+    padding: 10px;
+    text-align: center;
+}
+th{
+    color: #146c2e;
+    font-size: larger;
+    font-family: cursive;
+}
+td{
+    color: #1f1f1f;
+    font-size: smaller;
+    font-family: fantasy;
+}

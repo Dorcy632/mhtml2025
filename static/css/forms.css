@@ -1,0 +1,17 @@
+label{margin: 0;
+    padding: 2px;
+    font-family: cursive;
+    font-size: large;
+    color: darkgreen;
+    background-color: white;
+}
+input{padding: 2px;
+    font-family: cursive;
+    font-size: large;
+    color: black;
+    background-color: white;
+}
+form{
+    background-color: plum;
+    overflow: hidden;
+}
